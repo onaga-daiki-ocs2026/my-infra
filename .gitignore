@@ -1,0 +1,11 @@
+# パスワードなどの秘密情報
+.env
+*.env
+
+# ログ
+*.log
+
+# Terraform（Phase 3で使う予定）
+*.tfstate
+*.tfstate.*
+.terraform/
