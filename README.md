@@ -23,3 +23,9 @@
 ## 運用記録
 
 計画停止・障害の記録は [docs/operations-log.md](docs/operations-log.md) を参照。
+
+## 障害の記録
+
+| 日付 | 事象 | 継続時間 | 検知方法 | ポストモーテム |
+|---|---|---|---|---|
+| 2026-09-30 | 契約の利用停止によるサイト停止 | 3時間18分 | 監視アラート | [link](docs/postmortem/2026-09-30-payment-suspension.md) |
